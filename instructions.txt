@@ -27,3 +27,6 @@ Write your answers in section 3.
 Go a git status, and write your obvservations.
 Add your new file to the staging area. How will you do it?
 i am awosme
+
+who is your daddy?
+
